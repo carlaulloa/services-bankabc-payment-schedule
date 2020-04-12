@@ -1,0 +1,6 @@
+INSERT INTO tb_cronograma_prestamos (nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES (1, 1, '15/05/2020', 35, 214.4, 77.6, 293.7, 0);
+INSERT INTO tb_cronograma_prestamos (nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES (1, 2, '15/06/2020', 30, 233.6, 58.7, 293.7, 0);
+INSERT INTO tb_cronograma_prestamos (nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES (1, 3, '15/07/2020', 30, 246.2, 46.5, 293.7, 0);
+INSERT INTO tb_cronograma_prestamos (nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES (1, 4, '15/08/2020', 31, 257.3, 35.6, 293.7, 0);
+INSERT INTO tb_cronograma_prestamos (nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES (1, 5, '15/09/2020', 31, 268.1, 25.1, 293.7, 0);
+INSERT INTO tb_cronograma_prestamos (nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES (1, 6, '15/10/2020', 30, 280.5, 12.8, 293.6, 0);
